@@ -1,2 +1,2 @@
-# LHDShare2021-Hello_World
-Hello,World in a new language
+# Hello_World in a new language
+Hello World Programs in JS, Go
